@@ -15,4 +15,4 @@ sample
 11/03/2021 --> it is wednesday
 10/12/2021 --> it is tuesday
 10/11/2021 --> it is monday
-10/19/2021 --> it is sunday
+10/19/2021 --> it is saturday
