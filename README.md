@@ -18,4 +18,4 @@ sample
 10/19/2021 --> it is saturday
 14/01/2022 --> it is friday
 15/01/2022 --> it is saturday
-16/01/2022 --> it is sunday
+16/01/2022 --> it is monday
