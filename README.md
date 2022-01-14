@@ -21,3 +21,4 @@ sample
 16/01/2022 --> it is monday
 17/01/2022 --> it is tuesday
 18/01/2022 --> it is wednesday
+19/01/2022 --> IT IS FRIDAY
